@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "bank": "First Bank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "requestd",
+      "currency": "NGN"
+    },
+    {
+      "bank": "GTBank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "request",
+      "currency": "USD"
+    },
+    {
+      "bank": "Zenith Bank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "requst",
+      "currency": "NGN"
+    }
+  ]
+}
