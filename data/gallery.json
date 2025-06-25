@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "src": "images/gallery/worship-1.jpg",
+      "title": "Sunday Servie",
+      "category": "service",
+      "date": "December 12, 2023"
+    },
+    {
+      "src": "images/gallery/event-1.jpg",
+      "title": "Church Picic",
+      "category": "event",
+      "date": "June 5, 2023"
+    }
+  ]
+}
