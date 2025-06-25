@@ -1,0 +1,20 @@
+{
+  "sermons": [
+    {
+      "id": "s001",
+      "title": "The Power of GOD",
+      "preacher": "Rev. Dr. Johnson Adeleke",
+      "date": "2025-06-15",
+      "description": "In this powerful message, Rev. Adeleke explores the transformative power of faith in our daily lives, emphasizing its role in overcoming challenges and realizing divine promises.",
+      "audio": "https://example.com/audio/the-power-of-faith.mp3"
+    },
+    {
+      "id": "s002",
+      "title": "Walking in Divine Purpose",
+      "preacher": "Pastor Funke Adebayo",
+      "date": "2025-06-08",
+      "description": "Pastor Adebayo shares insights on discovering and walking in God's unique purpose for your life, providing practical steps and biblical guidance.",
+      "audio": "https://example.com/audio/divine-purpose.mp3"
+    }
+  ]
+}
