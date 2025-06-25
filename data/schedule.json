@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "title": "Sunday Worship Service",
+      "time": "Now Live",
+      "timeRange": "10:00 AM - 12:00 PM",
+      "active": true
+    },
+    {
+      "title": "Bible Study",
+      "time": "Wed",
+      "timeRange": "5:00 PM - 7:00 PM",
+      "active": false
+    },
+    {
+      "title": "Prayer Meeting",
+      "time": "Fri",
+      "timeRange": "6:00 AM - 7:00 AM",
+      "active": false
+    },
+    {
+      "title": "Sunday Worship Service",
+      "time": "Sun",
+      "timeRange": "8:00 AM - 12:00 PM",
+      "active": false
+    }
+  ]
+}
