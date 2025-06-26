@@ -10,7 +10,7 @@
       "title": "Bible Study",
       "time": "Wed",
       "timeRange": "5:00 PM - 7:00 PM",
-      "active": false
+      "active": true
     },
     {
       "title": "Prayer Meeting",
