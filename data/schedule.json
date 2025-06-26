@@ -2,7 +2,7 @@
   "schedule": [
     {
       "title": "Sunday Worship Service",
-      "time": "Now Live",
+      "time": "GOD",
       "timeRange": "10:00 AM - 12:00 PM",
       "active": true
     },
@@ -20,9 +20,9 @@
     },
     {
       "title": "Sunday Worship Service",
-      "time": "Sun",
-      "timeRange": "8:00 AM - 12:00 PM",
-      "active": false
+      "time": "GOD",
+      "timeRange": "10:00 AM - 12:00 PM",
+      "active": true
     }
   ]
 }
