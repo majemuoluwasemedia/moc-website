@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "post-1750910554",
+      "title": "hello",
+      "category": "helo",
+      "date": "2025-06-25",
+      "image": "https://raw.githubusercontent.com/majemuoluwasemedia/moc-website/main/images/blog/default.jpg",
+      "excerpt": "e",
+      "content": "hi"
+    },
+    {
       "id": "1",
       "title": "The Power of GOD ",
       "category": "Teaching",
