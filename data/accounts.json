@@ -1,30 +1,22 @@
 {
-  "albums": [
+  "accounts": [
     {
-      "id": "first-sunday-jan",
-      "title": "First Sunday Service",
-      "coverImage": "images/gallery/album-covers/first-sunday-cover.jpg",
-      "date": "2024-01-07",
-      "category": "service",
-      "description": "Our blessed first Sunday service of the year",
-      "images": [
-        {
-          "src": "images/gallery/first-sunday-1.jpg",
-          "caption": "Praise and worship session"
-        },
-        {
-          "src": "images/gallery/first-sunday-2.jpg",
-          "caption": "Pastor's sermon"
-        }
-      ]
-    }
-  ],
-  "individual": [
+      "bank": "First Bank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "R",
+      "currency": "NGN"
+    },
     {
-      "src": "images/gallery/building-1.jpg",
-      "title": "Cathedral Exterior",
-      "category": "building",
-      "date": "2023-08-20"
+      "bank": "GTBank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "R",
+      "currency": "USD"
+    },
+    {
+      "bank": "Zenith Bank",
+      "accountName": "Celestial Church of Christ - MOC Cathedral",
+      "accountNumber": "R",
+      "currency": "NGN"
     }
   ]
 }
