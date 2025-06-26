@@ -8,16 +8,8 @@
       "category": "service",
       "images": [
         {
-          "src": "images/gallery/albums/first-sunday/image1.jpg",
-          "caption": "Praise and worship session"
-        },
-        {
-          "src": "images/gallery/albums/first-sunday/image2.jpg",
-          "caption": "Pastor's sermon"
-        },
-        {
-          "src": "images/gallery/albums/first-sunday/image3.jpg",
-          "caption": "Communion service"
+          "src": "https://raw.githubusercontent.com/majemuoluwasemedia/moc-website/main/images/gallery/albums/first-sunday-jan/Cathedral Exterior.jpg",
+          "caption": ""
         }
       ]
     },
