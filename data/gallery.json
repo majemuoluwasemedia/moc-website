@@ -21,13 +21,5 @@
         }
       ]
     }
-  ],
-  "individual": [
-    {
-      "src": "images/gallery/individual/building1.jpg",
-      "title": "Cathedral Exterior",
-      "category": "building",
-      "date": "2023-08-20"
-    }
   ]
 }
