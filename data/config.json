@@ -1,21 +1,21 @@
 {
   "church": {
-    "name": "Majemu Oluwase Cathedral",
+    "name": "",
     "contact": {
-      "address": "123 Heavenly, Lagos, Nigeria",
-      "phone": "+234 812 345 6789",
-      "email": "info@moccathedral.org"
+      "address": "",
+      "phone": "",
+      "email": ""
     },
     "socialMedia": {
-      "facebook": "https://facebook.com/moccathedral",
-      "twitter": "https://twitter.com/moccathedral",
-      "instagram": "https://instagram.com/moccathedral",
-      "youtube": "https://youtube.com/moccathedral"
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "youtube": ""
     },
     "serviceTimes": {
-      "sunday": "10:00 AM - 12:00 PM",
-      "bibleStudy": "Wednesday 5:00 PM - 7:00 PM",
-      "prayerMeeting": "Friday 6:00 AM - 7:00 AM"
+      "sunday": "",
+      "bibleStudy": "",
+      "prayerMeeting": ""
     }
   }
 }
