@@ -17,6 +17,12 @@
       "accountName": "Celestial Church of Christ - MOC Cathedral",
       "accountNumber": "R",
       "currency": "NGN"
+    },
+    {
+      "bank": "GOD",
+      "accountName": "GOD",
+      "accountNumber": "GOG",
+      "currency": "GOD"
     }
   ]
 }
