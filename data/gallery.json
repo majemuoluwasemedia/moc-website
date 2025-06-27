@@ -3,9 +3,9 @@
     {
       "id": "first-sunday-jan",
       "title": "First Sunday Service",
-      "coverImage": "images/gallery/albums/first-sunday/cover.jpg",
-      "date": "2024-01-07",
       "category": "service",
+      "date": "2024-01-07",
+      "coverImage": "https://github.com/majemuoluwasemedia/moc-website/raw/main/images/gallery/albums/1750986037202_2b79c643-25f7-4cee-9ccd-00d2114b73bc-removebg-preview-removebg-preview.png",
       "images": [
         {
           "src": "https://raw.githubusercontent.com/majemuoluwasemedia/moc-website/main/images/gallery/albums/first-sunday-jan/Cathedral Exterior.jpg",
