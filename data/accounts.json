@@ -17,6 +17,12 @@
       "accountName": "GOD",
       "accountNumber": "GOD",
       "currency": "GOD"
+    },
+    {
+      "bank": "GOD",
+      "accountName": "JESUS",
+      "accountNumber": "GOD",
+      "currency": "GOD"
     }
   ]
 }
