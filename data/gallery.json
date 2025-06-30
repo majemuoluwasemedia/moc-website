@@ -1,19 +1,5 @@
 {
-  "albums": [
-    {
-      "id": "album-1751302427136",
-      "title": "First Sunday Service 1",
-      "category": "service",
-      "date": "2025-06-30",
-      "coverImage": "https://github.com/majemuoluwasemedia/moc-website/raw/main/images/gallery/albums/1751302419104_5118827790030974571.jpg",
-      "images": [
-        {
-          "src": "https://github.com/majemuoluwasemedia/moc-website/raw/main/images/gallery/albums/new-album/1751302422772_5118827790030974566.jpg",
-          "caption": "5118827790030974566"
-        }
-      ]
-    }
-  ],
+  "albums": [],
   "individual": [
     {
       "src": "images/gallery/individual/building1.jpg",
