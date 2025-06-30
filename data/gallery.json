@@ -1,27 +1,6 @@
 {
   "albums": [
     {
-      "id": "first-sunday-jan",
-      "title": "First Sunday Service",
-      "coverImage": "images/gallery/albums/first-sunday/cover.jpg",
-      "date": "2024-01-07",
-      "category": "service",
-      "images": [
-        {
-          "src": "images/gallery/albums/first-sunday/image1.jpg",
-          "caption": "Praise and worship session"
-        },
-        {
-          "src": "images/gallery/albums/first-sunday/image2.jpg",
-          "caption": "Pastor's sermon"
-        },
-        {
-          "src": "images/gallery/albums/first-sunday/image3.jpg",
-          "caption": "Communion service"
-        }
-      ]
-    },
-    {
       "id": "album-1751302427136",
       "title": "First Sunday Service 1",
       "category": "service",
