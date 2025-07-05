@@ -1,0 +1,14 @@
+{
+  "title": "Intro to Crypto",
+  "author": "Abiodun Adeyemi",
+  "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
+  "basePriceUSD": 29.99,
+  "discountedPriceUSD": 19.99,
+  "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/book-cover-mockup.png",
+  "buyLinks": [
+    {
+      "label": "buy",
+      "url": "www.selar.com"
+    }
+  ]
+}
